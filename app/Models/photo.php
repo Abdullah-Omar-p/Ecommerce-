@@ -8,5 +8,4 @@ use Illuminate\Database\Eloquent\Model;
 class photo extends Model
 {
     use HasFactory;
-    //wefshzuis
 }

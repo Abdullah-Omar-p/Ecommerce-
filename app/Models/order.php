@@ -8,5 +8,4 @@ use Illuminate\Database\Eloquent\Model;
 class order extends Model
 {
     use HasFactory;
-    //here we will add some things 
 }
