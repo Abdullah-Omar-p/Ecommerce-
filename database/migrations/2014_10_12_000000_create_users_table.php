@@ -13,6 +13,7 @@ return new class extends Migration
      */
     public function up()
     {
+        // do it ya falla7 
         Schema::create('users', function (Blueprint $table) {
             $table->id();
             $table->string('firstname')->nullable();
